@@ -1,7 +1,7 @@
 # minishell
 
-                                                      Minishell
-                                                As beautiful as a shell
+                                                   Minishell
+                                            As beautiful as a shell
 
  Write a shell :
   
