@@ -6,9 +6,12 @@ As beautiful as a shell
   Write a shell :
  Your shell should:
 • Display a prompt when waiting for a new command.
+
 • Have a working history.
+
 • Search and launch the right executable (based on the PATH variable or using a
 relative or an absolute path).
+
 • Not use more than one global variable. Think about it. You will have to explain
 its purpose.
 • Not interpret unclosed quotes or special characters which are not required by the
